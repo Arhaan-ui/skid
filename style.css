@@ -1,0 +1,18 @@
+#show_sketch
+
+{
+    float: right;
+}
+
+body
+{
+    background-color: aquamarine
+    ;
+}
+
+canvas
+{
+    border: 7px solid tomato;
+
+    border-radius: 20px;
+}
